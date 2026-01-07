@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SVL98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Shubha,
+- 👀 I’m interested in ML,DL and Computer Vision
+- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me you can ping me here 
 
